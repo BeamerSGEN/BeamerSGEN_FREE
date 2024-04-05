@@ -18,7 +18,7 @@
 > https://easyupload.io/f9svjo
 
 **DISCORD**
-> https://discord.gg/gxy2eBPs
+> https://discord.gg/SRsCrfkefR
 
 **FUNCTION:**
 ```
